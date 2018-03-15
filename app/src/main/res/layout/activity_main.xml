@@ -271,13 +271,199 @@
                         android:layout_alignParentRight="true"/>
 
                     <View
-                        android:layout_width="220dp"
+                        android:layout_width="400dp"
                         android:layout_height="2dp"
-                        android:background="@android:color/darker_gray"
-                        >
+                        android:background="@android:color/holo_blue_dark"
+                        android:layout_alignParentBottom="true">
 
                     </View>
                 </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView
+                            android:id="@+id/market"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Mercado Libre"
+                            android:textSize="15sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="15-03-2018"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:layout_below="@id/market"/>
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="-57.30"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:layout_alignParentRight="true"/>
+
+                    <View
+                        android:layout_width="400dp"
+                        android:layout_height="2dp"
+                        android:background="@android:color/holo_blue_dark"
+                        android:layout_alignParentBottom="true">
+
+                    </View>
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView
+                            android:id="@+id/market"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Mercado Libre"
+                            android:textSize="15sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="15-03-2018"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:layout_below="@id/market"/>
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="-57.30"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:layout_alignParentRight="true"/>
+
+                    <View
+                        android:layout_width="400dp"
+                        android:layout_height="2dp"
+                        android:background="@android:color/holo_blue_dark"
+                        android:layout_alignParentBottom="true">
+
+                    </View>
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView
+                            android:id="@+id/market"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Mercado Libre"
+                            android:textSize="15sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="15-03-2018"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:layout_below="@id/market"/>
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="-57.30"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:layout_alignParentRight="true"/>
+
+                    <View
+                        android:layout_width="400dp"
+                        android:layout_height="2dp"
+                        android:background="@android:color/holo_blue_dark"
+                        android:layout_alignParentBottom="true">
+
+                    </View>
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <RelativeLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                        <TextView
+                            android:id="@+id/market"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Mercado Libre"
+                            android:textSize="15sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="15-03-2018"
+                            android:textSize="15sp"
+                            android:textStyle="bold"
+                            android:layout_below="@id/market"/>
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="-57.30"
+                        android:textStyle="bold"
+                        android:textSize="20sp"
+                        android:textColor="@android:color/holo_red_dark"
+                        android:layout_alignParentRight="true"/>
+
+                    <View
+                        android:layout_width="400dp"
+                        android:layout_height="2dp"
+                        android:background="@android:color/holo_blue_dark"
+                        android:layout_alignParentBottom="true">
+
+                    </View>
+                </RelativeLayout>
+
+
 
 
             </LinearLayout>
